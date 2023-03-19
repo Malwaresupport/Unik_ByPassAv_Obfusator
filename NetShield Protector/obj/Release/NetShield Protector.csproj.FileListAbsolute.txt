@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\нев клипак версия на 1 февраля\x64\Release\NetShield_Protector-main\NetShield Protector\bin\Release\NetShield Protector.exe.config
+C:\Users\User\Desktop\нев клипак версия на 1 февраля\x64\Release\NetShield_Protector-main\NetShield Protector\bin\Release\NetShield Protector.exe
+C:\Users\User\Desktop\нев клипак версия на 1 февраля\x64\Release\NetShield_Protector-main\NetShield Protector\bin\Release\NetShield Protector.pdb
+C:\Users\User\Desktop\нев клипак версия на 1 февраля\x64\Release\NetShield_Protector-main\NetShield Protector\bin\Release\dnlib.dll
+C:\Users\User\Desktop\нев клипак версия на 1 февраля\x64\Release\NetShield_Protector-main\NetShield Protector\obj\Release\NetShield_Protector.Main.resources
+C:\Users\User\Desktop\нев клипак версия на 1 февраля\x64\Release\NetShield_Protector-main\NetShield Protector\obj\Release\NetShield_Protector.Properties.Resources.resources
+C:\Users\User\Desktop\нев клипак версия на 1 февраля\x64\Release\NetShield_Protector-main\NetShield Protector\obj\Release\NetShield_Protector.Resource1.resources
+C:\Users\User\Desktop\нев клипак версия на 1 февраля\x64\Release\NetShield_Protector-main\NetShield Protector\obj\Release\NetShield Protector.csproj.GenerateResource.cache
+C:\Users\User\Desktop\нев клипак версия на 1 февраля\x64\Release\NetShield_Protector-main\NetShield Protector\obj\Release\NetShield Protector.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\нев клипак версия на 1 февраля\x64\Release\NetShield_Protector-main\NetShield Protector\obj\Release\NetShield Protector.csproj.CopyComplete
+C:\Users\User\Desktop\нев клипак версия на 1 февраля\x64\Release\NetShield_Protector-main\NetShield Protector\obj\Release\NetShield Protector.exe
+C:\Users\User\Desktop\нев клипак версия на 1 февраля\x64\Release\NetShield_Protector-main\NetShield Protector\obj\Release\NetShield Protector.pdb
